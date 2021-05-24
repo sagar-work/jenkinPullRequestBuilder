@@ -4,4 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("This is main function")
+	fmt.Println("this is second commit")
+
 }
