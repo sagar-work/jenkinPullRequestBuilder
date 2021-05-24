@@ -9,5 +9,6 @@ func main() {
 	fmt.Println("this is 4th commit")
 	fmt.Println("this is 5th commit")
 	fmt.Println("this is 6th commit")
+	fmt.Println("this is 7th commit")
 
 }
